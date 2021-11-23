@@ -1,1 +1,1 @@
-# Pokémon Team Planner
+# Pokémon Team Planner Backend and API
