@@ -1,1 +1,1 @@
-# pokemonworldplanner
+# Pokémon Team Planner
